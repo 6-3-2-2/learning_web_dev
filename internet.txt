@@ -1,0 +1,40 @@
+1.	What is the internet?
+	It is a system of interconnected computer networks that communicates between devices with the use of internet protocol.
+
+2.	How does the internet work?
+	The computers in the network are linked to each other or in larger  networks, to a switch, router or modem depending on the size. This  link is used to communicate information from one computer to its desired destination only with no overlapping. 
+
+3.	What is a domain name? 
+	It is human-readable addresses used to represent IP addresses such that people will have easier time finding out about the server unlike computers that can handle the IP addresses with ease.
+
+4.	DNS and how it works
+	The domain name system is a naming system that matches Ip addresses to their associated domain names. This is used to translate human readable domain names to numeric IP addresses and vice versa. 
+	When a user types a website address into the browser, it checks the local cache to see it already knows the IP address for that domain. If not, the DNS resolver receives the request.
+	The resolver then contacts the root name server which directs it to the appropriate top-level domain(TLD) name server which provides the address of the authoritative name server for the specific domain.
+	The name server then sends the IP address back to the resolver. The resolver returns it to the device and the browser uses it to connect to the web server and load the page. The IP address is stored in the local cache for future requests.
+
+
+5.	Browsers and how they work 
+	They are interfaces between the user an the web, that fetch resources their address and interprets and displays them as human-readable webpages by a rendering engine that processes code like HTML, CSS and JavaScript.
+	When a web address into the browser, it converts the web address into the server's IP address using the DNS  and then sends an HTTP request to the web server, requesting for the specific webpage.
+	The web server send the requested data to the browser and the browser's rendering engine parses the HTML and CSS to the understand its content, structure and style.
+	The rendering engine constructs the Document Object Model (DOM) (a tree-like structure of the page's elements) and then "paints" the content onto your screen, making the webpage visible and interactive. JavaScript code can then be executed to add dynamic features and interactivity to the webpage. 
+
+6.	What are markup languages? 
+	Markup languages are languages for annotating digital text with instructions on its structure, formatting, or how it should be displayed or processed by a computer.
+
+7.	What is front end development? 
+	Front-end development focuses on the visible and interactive part of a website or application.
+
+8.	What is http?
+	Hypertext Transfer Protocol is the fundamental language of the web, acting as a set of rules for how web browsers and web servers communicate to send and receive data, such as web pages.
+
+9.	What is a browser?.
+	Same as Q5
+10.	How do browsers work? 
+ 	Same as Q5
+
+11.	How does the web work? 
+	When the user types a website address (URL) into the browser, the browser uses the Domain Name System (DNS) to find the numerical IP address of the server hosting the website.
+	The browser sends an HTTP request over the internet to the server's IP address. The server finds the requested webpage files and sends them back to your browser.
+	These files, which include HTML (structure), CSS (styling), and JavaScript (interaction), are sent as small pieces called data packets. The browser assembles the packets and uses the HTML, CSS, and JavaScript code to build and display the complete, interactive webpage. 
