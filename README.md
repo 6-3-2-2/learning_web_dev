@@ -14,4 +14,5 @@ https://htmlpreview.github.io/?https://raw.githubusercontent.com/6-3-2-2/learnin
 
 🧩 Task 3 — Single Page Website (F1 Drivers)
 
-In Task 3, I created a single-page website displaying profiles of Formula 1 drivers. Each driver’s profile includes their photo, name, team, and a short detail about them. The website was built using HTML and CSS, with an optional use of JavaScript for design enhancement. This task helped me strengthen my front-end design skills, practice structuring and styling web pages, and improve my use of Git for version control through multiple commits and updates.
+In Task 3, I created a single-page website displaying profiles of Formula 1 drivers. Each driver’s profile includes their photo, name, team, and a short detail about them. The website was built using HTML and CSS. This task helped me strengthen my front-end design skills, practice structuring and styling web pages, and improve my use of Git for version control through multiple commits and updates.
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/6-3-2-2/learning_web_dev/refs/heads/master/Task3/F1.html
